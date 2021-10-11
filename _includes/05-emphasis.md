@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- *RESILIENCE IS KEY* 
+- _ARMY VETERAN_
+- *LIVING THE DREAM*
+- _BASEBALL AND BEER_
+-  *DOG LOVER*
