@@ -1,4 +1,4 @@
-:taco: 
-:baseball:
-:beer:
-:guide_dog:
+- :taco: 
+- :baseball:
+- :beer:
+- :guide_dog:
